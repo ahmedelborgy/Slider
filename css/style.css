@@ -1,0 +1,43 @@
+.item{
+
+    position: relative;
+}
+.cap{
+    width: 90% !important;
+    position: absolute;
+    bottom: 5%;
+    left: 5%;
+}
+
+.closeIcone{
+    position: absolute;
+    top: 15px;
+    right: 15px;
+
+}
+.protfo{
+    position: relative;
+}
+.rightIcone{
+position: absolute;
+top: 45%;
+right: 15px;
+}
+.leftIcone{
+    position: absolute;
+    top: 45%;
+   left: 15px;
+    }
+    .protfo img{
+        border: 2px rgb(248, 239, 239) solid;
+       
+        opacity: 1;
+        transition: 2s opacity;
+
+    }
+    i{
+        cursor: pointer;
+    }
+    .model{
+        
+    }
